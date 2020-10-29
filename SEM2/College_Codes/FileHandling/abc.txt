@@ -1,6 +1,0 @@
-Name = sdfghjk
-Age = 85
-Name = dfghjk
-Age = 96
-Name = xcvbnm
-Age = 74
