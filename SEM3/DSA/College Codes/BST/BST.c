@@ -88,15 +88,6 @@ void postorder(node *root)
 }
 
 // Deletion
-void postorder_traverse(node *root)
-{
-	if (root != NULL)
-	{
-		postorder_traverse(root->left);
-		postorder_traverse(root->right);
-		printf("%d ", root->data);
-	}
-}
 void deletion(node **root, int item)
 {
 	if (*root == NULL)
