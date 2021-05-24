@@ -49,8 +49,7 @@ void heapSort(int arr[], int n)
 }
 
 int main()
-{
-    
+{   
     int n;
     printf("Enter the size of the array: ");
     scanf("%d", &n);
